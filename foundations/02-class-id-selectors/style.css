@@ -1,0 +1,23 @@
+p{
+    color:rgb(0, 0, 0);
+    background-color: rgb(221, 131, 131);
+    font-family: Verdana, "DejaVu Sans",Geneva, Tahoma, sans-serif;
+}
+
+.FirstClass
+#id4
+{
+    font-size: 24px;
+
+}
+
+#id2{
+    font-size: 36px;
+    color:rgb(0, 0, 255);
+
+}
+
+#id4{
+    background-color: rgb(62, 223, 97);
+    font-weight: bold;
+}
