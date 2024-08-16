@@ -74,3 +74,8 @@ ul{
   padding: 0;
   gap: 16px;
 }
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+}
